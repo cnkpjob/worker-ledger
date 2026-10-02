@@ -1,0 +1,7 @@
+{
+  "records": [
+    { "_id": "m202606", "properties": { "月份": { "text": "2026-06" }, "总收入": { "currency": 15000 }, "固定支出": { "currency": 5200 }, "弹性支出": { "currency": 2400 } } },
+    { "_id": "m202607", "properties": { "月份": { "text": "2026-07" }, "总收入": { "currency": 14200 }, "固定支出": { "currency": 5200 }, "弹性支出": { "currency": 3100 } } },
+    { "_id": "m202608", "properties": { "月份": { "text": "2026-08" }, "总收入": { "currency": 16800 }, "固定支出": { "currency": 5200 }, "弹性支出": { "currency": 1800 } } }
+  ]
+}
